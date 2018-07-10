@@ -6,13 +6,13 @@
 
 # Sobre as Vagas
 
-Este repositório tem como objetivo a divulgação de vagas para as áreas de TI do **Grupo Educacional CEUMA**
+Este repositório tem como objetivo a divulgação de vagas para as áreas de TI do **Grupo Educacional CEUMA**.
 
 -------------------------------------------------
 
 ## Desenvolvimento
 
-# Abertas
+### Abertas
 
 - [[São Luís] - Universidade CEUMA: para saber mais sobre a vaga clique aqui](development/README.md).
 
