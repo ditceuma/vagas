@@ -20,13 +20,13 @@ Este repositório tem como objetivo a divulgação de vagas para as áreas de TI
 
 ## Infraestrutura
 
-```nothing yet```
+### Abertas
 
 -------------------------------------------------
 
 ## Help Desk - Suporte
 
-```nothing yet```
+### Abertas
 
 -------------------------------------------------
 
