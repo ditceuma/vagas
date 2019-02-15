@@ -13,25 +13,27 @@ Universidade CEUMA – São Luís, MA, Renascença.
 
 ### Benefícios
 
-Vale transporte;
-Plano hospitalar;
+- Vale transporte;
+- Plano hospitalar;
 
 ### Requisitos
 
 **Obrigatórios:**
 
-- Ter conhecimentos em TDD e desenvolver orientado a testes;
-- Bons conhecimentos em Java, Bootstrap, Angular4.*(ou superior);
+- Bons conhecimentos em Java, Bootstrap e Javascript;
+- Ter conhecimentos em SQL e GIT;
 - Ser fera em desenvolvimento de API's;
 - Ter experiência com frameworks Java EE (maven, spring-boot, vraptor, jsf, hibernate, etc);
-- Ter conhecimento de XP;
+- Experiência com Scrum ou método Kanban;
 - Fazendo curso superior, preferencialmente períodos finais ou já formado;
 
 **Desejáveis:**
 
-- Conhecimento em C#;
-- Conhecimento em ASP.Net e VB6;
-- Experiência com Scrum ou método Kanban;
+- Ter conhecimentos em TDD e desenvolver orientado a testes;
+- Ter conhecimentos em Python e Golang;
+- Ter conhecimentos em C#, ASP.Net e VB6;
+- Experiência com aplicações dockerizadas (uso do Docker e/ou Portainer);
+- Experiência com ferramentas de automatização e integração contínua, como Jenkins e GitLab CI;
 
 **Diferenciais:**
 
@@ -39,7 +41,6 @@ Plano hospitalar;
 - Conhecimentos em desenvolvimento iOS;
 - Conhecimentos em Ionic;
 - Conhecimentos em React;
-- Conhecimentos em Golang;
 - Conhecimentos em Jenkins, Sonarqube, Vagrant, Docker, Puppet ou outras ferramentas de DevOps;
 - **Projetos OpenSource contam pontos;**
 - **Ter sido palestrante em eventos;**
