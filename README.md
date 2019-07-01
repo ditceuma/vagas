@@ -30,6 +30,14 @@ Este repositório tem como objetivo a divulgação de vagas para as áreas de TI
 
 -------------------------------------------------
 
+## NIS - Núcleo de Integração de Sistemas
+
+### Abertas
+
+- [[São Luís] - Universidade CEUMA: para saber mais sobre a vaga clique aqui](nis/README.md).
+
+-------------------------------------------------
+
 ## LICENSE
 
 [MIT LICENSE](LICENSE)
