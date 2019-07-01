@@ -23,7 +23,7 @@ Universidade CEUMA – São Luís, MA, Renascença.
 - Ferramenta TOTVS
 - Conhecimento no módulo BackOffice (RM)
 - Conhecimento no módulo Contábil (RM)
-- Assegurar e manter sistemas de informação legados existentes em conformidade com as necessidades da empresa realizando ajuste e adequações necessárias ao seu pleno funcionamento.
+- Assegurar e manter sistemas de informação legados existentes em conformidade com as necessidades da empresa realizando ajustes e adequações necessárias ao seu pleno funcionamento.
 
 **Desejáveis:**
 
