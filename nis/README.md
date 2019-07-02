@@ -4,8 +4,7 @@
 
 ### Descrição da vaga
 
-Buscamos desenvolvedores para criar novos produtos e dar suporte em produtos já existentes.
-O desenvolvedor deverá somar para disseminação da cultura ágil trazendo experiência com as abordagens. Terá liberdade de propor ideias, modelos e liderar produtos que tenham relevância para o segmento educacional.
+Buscamos profissionais para dar suporte em produtos já existentes e participar de novas implantações de Sistemas ERP. O candidato deverá somar para disseminação da cultura ágil trazendo experiência com as abordagens. Terá liberdade de propor ideias e modelos.
 
 ### Local
 
@@ -20,29 +19,22 @@ Universidade CEUMA – São Luís, MA, Renascença.
 
 **Obrigatórios:**
 
-- Ferramenta TOTVS
-- Conhecimento no módulo BackOffice (RM)
-- Conhecimento no módulo Contábil (RM)
-- Assegurar e manter sistemas de informação legados existentes em conformidade com as necessidades da empresa realizando ajustes e adequações necessárias ao seu pleno funcionamento.
+- Conhecimento no módulo BackOffice (RM TOTVS)
+- Noções de Contabilidade e Fiscal
+- Noções de SQL Server
 
 **Desejáveis:**
 
-- Formulas Visuais
-- Rm Reports
-- Metadados
-- Cubos
+- Desenvolvimento de Relatórios usando RM Reports
+- Conhecimento em Metadados
+- Desenvolvimento de Cubos
 
 **Diferenciais:**
 
-- Conhecimentos em Ionic;
-- Conhecimentos em React;
-- Conhecimento em Python
-- Conhecimentos em PHP
-- Cnohecimentos em Java
-- **Projetos OpenSource contam pontos;**
-- **Ter sido palestrante em eventos;**
-- Conhecimento de linguagens funcionais;
-- Conhecimento de SCRUM;
+- Conhecimento em Fórmulas Visuais
+- Conhecimentos em Ionic, React, Python, PHP, Java
+- Ter sido palestrante em eventos
+- Conhecimento de SCRUM
 
 ### Tipo de Contratação
 
