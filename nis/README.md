@@ -1,6 +1,6 @@
 # Vagas abertas
 
-## [São Luís] - Desenvolvedor - Universidade CEUMA (NIS)
+## [São Luís] - Analista de Negócio - Universidade CEUMA
 
 ### Descrição da vaga
 
@@ -19,22 +19,22 @@ Universidade CEUMA – São Luís, MA, Renascença.
 
 **Obrigatórios:**
 
-- Conhecimento no módulo BackOffice (RM TOTVS)
-- Noções de Contabilidade e Fiscal
-- Noções de SQL Server
+- Conhecimento no módulo BackOffice (RM TOTVS);
+- Conhecimento no módulo CRM (RM TOTVS);
+- Noções de SQL Server;
 
 **Desejáveis:**
 
-- Desenvolvimento de Relatórios usando RM Reports
-- Conhecimento em Metadados
-- Desenvolvimento de Cubos
+- Desenvolvimento de Relatórios usando RM Reports;
+- Conhecimento em Metadados;
+- Desenvolvimento de Cubos;
 
 **Diferenciais:**
 
-- Conhecimento em Fórmulas Visuais
-- Conhecimentos em Ionic, React, Python, PHP, Java
-- Ter sido palestrante em eventos
-- Conhecimento de SCRUM
+- Conhecimento em Fórmulas Visuais;
+- Ter sido palestrante em eventos;
+- Conhecimento de SCRUM;
+- Noções de Contabilidade e Fiscal;
 
 ### Tipo de Contratação
 
@@ -46,4 +46,4 @@ Universidade CEUMA – São Luís, MA, Renascença.
 
 ### Como se candidatar
 
-A vaga está aberta a profissionais de todo o país. O candidato interessado deverá mandar um e-mail para rh.grupo@ceuma.br com o seu CV, endereço do LinkedIn e GitHub, se tiver (sendo um diferencial). Deve enviar no assunto: Vaga Desenvolvedor – CEUMA, com seu nome no CV no formato pdf.
+A vaga está aberta por tempo indeterminado. O candidato interessado deverá mandar um e-mail para vagas-devti@grupoceuma.com.br com o seu CV, endereço do LinkedIn e GitHub, se tiver (sendo um diferencial). Deve enviar no assunto: Vaga Analista de Negócio – CEUMA, com seu nome no CV no formato pdf.
