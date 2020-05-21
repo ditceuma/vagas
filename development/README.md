@@ -58,5 +58,5 @@ Universidade CEUMA – São Luís, MA, Renascença.
 
 ### Como se candidatar
 
-A vaga está aberta por tempo indeterminado. O candidato interessado deverá mandar um e-mail para vagas-devti@grupoceuma.com.br com o seu CV, endereço do LinkedIn e GitHub, se tiver (sendo um diferencial). Deve enviar no assunto: Vaga Desenvolvedor – CEUMA, com seu nome no CV no formato pdf.
+A vaga está aberta apenas internamente. O candidato interessado deverá mandar um e-mail para vagas-devti@grupoceuma.com.br com o seu CV, endereço do LinkedIn e GitHub, se tiver (sendo um diferencial). Deve enviar no assunto: Vaga Desenvolvedor – CEUMA, com seu nome no CV no formato pdf.
 O recebimento de currículo estará aberto enquanto essa issue estiver.
