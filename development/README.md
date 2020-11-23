@@ -1,6 +1,6 @@
 # Vagas abertas
 
-## [São Luís] - Desenvolvedor Jr- Universidade CEUMA - Home Office
+## [São Luís] - Desenvolvedor PJ- Universidade CEUMA - Home Office
 
 ### Descrição da vaga
 
