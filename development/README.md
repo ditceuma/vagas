@@ -1,6 +1,6 @@
 # Vagas abertas
 
-## [São Luís] - Desenvolvedor - Universidade CEUMA
+## [São Luís] - Desenvolvedor Jr- Universidade CEUMA - Home Office
 
 ### Descrição da vaga
 
@@ -9,48 +9,22 @@ O desenvolvedor deverá somar para disseminação da cultura ágil trazendo expe
 
 ### Local
 
-Universidade CEUMA – São Luís, MA, Renascença.
-
-### Benefícios
-
-- Vale transporte;
-- Plano hospitalar;
+Home Office
 
 ### Requisitos
 
 **Obrigatórios:**
 
-- Bons conhecimentos em Java, Bootstrap e Javascript;
 - Ter conhecimentos em SQL e GIT;
-- Ser fera em desenvolvimento de API's;
-- Ter experiência com frameworks Java EE (maven, spring-boot, vraptor, jsf, hibernate, etc);
-- Experiência com Scrum ou método Kanban;
-- Fazendo curso superior, preferencialmente períodos finais ou já formado;
-
-**Desejáveis:**
-
-- Ter conhecimentos em TDD e desenvolver orientado a testes;
-- Ter conhecimentos em Python e Golang;
-- Ter conhecimentos em C#, ASP.Net e VB6;
-- Experiência com aplicações dockerizadas (uso do Docker e/ou Portainer);
-- Experiência com ferramentas de automatização e integração contínua, como Jenkins e GitLab CI;
-
-**Diferenciais:**
-
-- Conhecimentos em desenvolvimento Android;
-- Conhecimentos em desenvolvimento iOS;
-- Conhecimentos em Ionic;
-- Conhecimentos em React;
-- Conhecimentos em Jenkins, Sonarqube, Vagrant, Docker, Puppet ou outras ferramentas de DevOps;
-- **Projetos OpenSource contam pontos;**
-- **Ter sido palestrante em eventos;**
-- Conhecimento de linguagens funcionais;
-- Certificação SCRUM;
-- Certificação Java;
+- Ter conhecimentos em desenvolvimento de API's;
+- Ter conhecimentos em desenvolvimento Frontend;
+- Ter conhecimentos em bancos de dados relacionais;
+- Ter conhecimentos nos frameworks Java (maven, spring-boot, vraptor, jsf, hibernate, etc);
+- Ter conhecimentos com Scrum ou método Kanban;
 
 ### Tipo de Contratação
 
-**CLT**
+**PJ**
 
 ### Nossa empresa
 
@@ -58,5 +32,5 @@ Universidade CEUMA – São Luís, MA, Renascença.
 
 ### Como se candidatar
 
-A vaga está aberta por tempo indeterminado. O candidato interessado deverá mandar um e-mail para vagas-devti@grupoceuma.com.br com o seu CV, endereço do LinkedIn e GitHub, se tiver (sendo um diferencial). Deve enviar no assunto: Vaga Desenvolvedor – CEUMA, com seu nome no CV no formato pdf.
+Temps 6 vagas abertas por tempo indeterminado. O candidato interessado deverá mandar um e-mail para vagas-devti@grupoceuma.com.br com o seu CV, endereço do LinkedIn e GitHub, se tiver (sendo um diferencial). Deve enviar no assunto: Vaga Desenvolvedor – CEUMA, com seu nome no CV no formato pdf.
 O recebimento de currículo estará aberto enquanto essa issue estiver.
