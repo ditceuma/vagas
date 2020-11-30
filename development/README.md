@@ -19,7 +19,6 @@ Home Office
 - Ter conhecimentos em desenvolvimento de API's;
 - Ter conhecimentos em desenvolvimento Frontend;
 - Ter conhecimentos em bancos de dados relacionais;
-- Ter conhecimentos nos frameworks Java (maven, spring-boot, vraptor, jsf, hibernate, etc);
 - Ter conhecimentos com Scrum ou método Kanban;
 
 ### Tipo de Contratação
