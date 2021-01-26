@@ -34,7 +34,8 @@ Home Office
 
 **Diferencial:**
 
-- RM TOTVS
+- Sistema RM TOTVS;
+- Base de dados RM TOTVS;
 
 ### Tipo de Contratação
 
