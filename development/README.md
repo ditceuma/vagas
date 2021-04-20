@@ -1,6 +1,6 @@
 # Vagas abertas
 
-## [São Luís] - Desenvolvedor Jr PJ- Universidade CEUMA - Home Office
+## [São Luís] - Desenvolvedor Jr CLT- Universidade CEUMA - Home Office
 
 ### Descrição da vaga
 
@@ -20,10 +20,13 @@ Home Office
 - Ter conhecimentos em desenvolvimento Frontend;
 - Ter conhecimentos em bancos de dados relacionais;
 - Ter conhecimentos com Scrum ou método Kanban;
+- Conhecer o sistema RM TOTVS;
+- Conhecer Base de Dados RM TOTVS;
+- Conhecer as ferramentas de Cubos, Relatórios, Fórmulas visuais, Metadados do sistema RM TOTVS;
 
 ### Tipo de Contratação
 
-**PJ**
+**CLT**
 
 ### Nossa empresa
 
