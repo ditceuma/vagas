@@ -9,7 +9,7 @@ O desenvolvedor deverá somar para disseminação da cultura ágil trazendo expe
 
 ### Local
 
-Home Office
+Presencial
 
 ### Requisitos
 
