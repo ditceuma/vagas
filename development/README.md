@@ -1,6 +1,6 @@
 # Vagas abertas
 
-## [São Luís] - Desenvolvedor Jr CLT- Universidade CEUMA - Home Office
+## [São Luís] - Desenvolvedor Jr CLT- Universidade CEUMA
 
 ### Descrição da vaga
 
