@@ -19,22 +19,17 @@ Universidade CEUMA – São Luís, MA, Renascença.
 
 **Obrigatórios:**
 
-- Conhecimento no módulo BackOffice (RM TOTVS);
-- Conhecimento no módulo CRM (RM TOTVS);
-- Noções de SQL Server;
+- Conhecer o módulo Educacional RM TOTVS;
+- Conhecer o módulo Financeiro RM TOTVS;
+- Conhecer o módulo Processo Seletivo RM TOTVS;
 
-**Desejáveis:**
+**Diferenciais:**
 
 - Desenvolvimento de Relatórios usando RM Reports;
 - Conhecimento em Metadados;
 - Desenvolvimento de Cubos;
-
-**Diferenciais:**
-
 - Conhecimento em Fórmulas Visuais;
-- Ter sido palestrante em eventos;
-- Conhecimento de SCRUM;
-- Noções de Contabilidade e Fiscal;
+
 
 ### Tipo de Contratação
 
